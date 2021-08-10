@@ -1,0 +1,19 @@
+id_product,product,Cost_price,Sell_price,Category
+SUDGLD1,Sudha Gold,41.4,50,Milk 
+SUDLIT2,Sudha Lite,35,42,Milk 
+SUDSHT3,Sudha Shakti,38,46,Milk 
+SUDHEL4,Sudha Healthy,40,48,Milk 
+SUDSMT5,Sudha Smart,45,54,Milk 
+SUDCMK6,Sudha Cow Milk,25,30,Milk 
+MPGHEE7,Ghee,250,300,Milk Product
+MPICCR8,Ice Cream,75,90,Milk Product
+MPLSSI9,Lassi,35,42,Milk Product
+MPMTDH10,Mishti dahi,110,132,Milk Product
+MPPDA11,Peda,175,210,Milk Product
+MPPANR12,Paneer,66.87,81,Milk Product
+MPSUSP13,Sudha Special,160,192,Milk Product
+MPKALA14,Kalakand,200,240,Milk Product
+MPRSGL15,Rasogulla,245,294,Milk Product
+MPGUJA16,GulabJamun,240,288,Milk Product
+MPPCRD17,Plain Curd,25,30,Milk Product
+MPBLSH18,Balusahi,200,240,Milk Product
